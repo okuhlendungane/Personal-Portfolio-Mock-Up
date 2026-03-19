@@ -32,6 +32,8 @@ The goal of this project was to practice front-end development skills, especiall
 - Connect to a backend or make it fully functional
 - Deploy the website online
 - improve grid layout
+- 
+<img width="1902" height="800" alt="image" src="https://github.com/user-attachments/assets/0ec0230e-db7c-4708-9184-81bcd46631c7" />
 
 
 
